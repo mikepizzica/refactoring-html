@@ -1,6 +1,6 @@
 # refactoring-html-project
 ## Description
-The purpose of this project was to effectively refactor code for a marketing agency website in order to follow accessiblity standards and so that the site is optimzed for search engines.
+The purpose of this project was to effectively refactor code for a marketing agency website in order to follow accessiblity standards and so that the site is optimized for search engines.
 
 The acceptance criteria:
 ```
