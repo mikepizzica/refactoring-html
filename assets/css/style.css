@@ -83,7 +83,7 @@ main.content {
     margin-left: 20px;
 }
 
-    /* styling for main content sections*/
+    /* styling for main content sections */
     main.content > section {
         margin-bottom: 20px;
         padding: 50px;
