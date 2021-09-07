@@ -10,6 +10,22 @@ body {
     background-color: #d9dcd6;
 }
 
+/* styling text within <p> tags */
+p {
+    font-size: 16px;
+}
+
+/* defining float values so that we can place our images properly in the main content */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
 /* styling our header at top of page */
 header {
     padding: 20px;
@@ -18,16 +34,16 @@ header {
     color: #ffffff;
 }
 
-/* styling "Horiseon" text */
-header > h1 {
-    display: inline-block;
-    font-size: 48px;
-}
+    /* styling "Horiseon" text */
+    header > h1 {
+        display: inline-block;
+        font-size: 48px;
+    }
 
-/* emphasize "seo" in "Horiseon" by offsetting color of these three letters */
-header > h1 .seo {
-    color: #d9dcd6;
-}
+        /* emphasize "seo" in "Horiseon" by offsetting color of these three letters */
+        header > h1 > span.seo {
+            color: #d9dcd6;
+        }
 
     /* styling the right header text */
     header > ul {
@@ -51,15 +67,9 @@ header > h1 .seo {
                 text-decoration: none;
             }
 
-/* styling text within <p> tags */
-p {
-    font-size: 16px;
-}
-
 /* main image of a digital marketing meeting */
-.hero {
+div.hero {
     height: 800px;
-    width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
@@ -71,17 +81,6 @@ main.content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-}
-
-/* defining float values so that we can place our images properly in the main content */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
 }
 
     /* styling for main content sections*/
@@ -107,10 +106,8 @@ main.content {
 aside.benefits {
     margin-right: 20px;
     padding: 20px;
-    clear: both;
     float: right;
     width: 20%;
-    height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
@@ -135,7 +132,6 @@ aside.benefits {
 /* styling for footer */
 footer {
     padding: 30px;
-    clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
