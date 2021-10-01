@@ -17,7 +17,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 ## Screenshot
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/screenshot-horiseon-website.png)
+![Screenshot of webpage](./assets/images/screenshot-horiseon-website.png)
 
 
 ## Link

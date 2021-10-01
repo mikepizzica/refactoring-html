@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\upenn-phi-virt-fsf-pt-08-2021-u-c"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "upenn-phi-virt-fsf-pt-08-2021-u-c"
+	}
+}
