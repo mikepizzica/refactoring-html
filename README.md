@@ -16,9 +16,9 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-## Screenshot
-![Screenshot of webpage](./assets/images/screenshot-horiseon-website.png)
-
 
 ## Link
 https://mikepizzica.github.io/refactoring-html/
+
+## Screenshot
+![Screenshot of webpage](./assets/images/screenshot-horiseon-website.png)
