@@ -21,4 +21,4 @@ THEN I find a concise, descriptive title
 
 
 ## Link
-https://mikepizzica.github.io/refactoring-html-project/
+https://mikepizzica.github.io/refactoring-html/
